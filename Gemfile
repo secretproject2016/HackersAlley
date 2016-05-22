@@ -29,6 +29,10 @@ gem "paperclip", "~> 5.0.0.beta1"
 
 gem 'devise'
 
+gem 'figaro'
+
+gem 'stripe'
+
 group :development do
 	gem 'sqlite3'
 end

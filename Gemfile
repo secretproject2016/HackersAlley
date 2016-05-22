@@ -27,6 +27,8 @@ gem 'bootstrap-sass', '~> 3.3.6'
 
 gem "paperclip", "~> 5.0.0.beta1"
 
+gem 'devise'
+
 group :development do
 	gem 'sqlite3'
 end
